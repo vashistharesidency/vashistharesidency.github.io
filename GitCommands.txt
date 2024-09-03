@@ -1,0 +1,6 @@
+git config --global user.email "vashistharesidency@gmail.com"
+git config --global user.name "Vashistha Residency"
+
+git add .
+git commit -m "Vashistha Residency Initial Commit"
+git push
