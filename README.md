@@ -1,2 +1,1 @@
-# website
-Vashistha Residency Website
+# Vashistha-Residency
